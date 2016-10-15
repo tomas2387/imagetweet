@@ -1,0 +1,27 @@
+{
+  "name": "imagetweet",
+  "version": "1.0.0",
+  "description": "Fetch images and tweet them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas2387/imagetweet.git"
+  },
+  "keywords": [
+    "images",
+    "tweet"
+  ],
+  "author": "tomas2387",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomas2387/imagetweet/issues"
+  },
+  "homepage": "https://github.com/tomas2387/imagetweet#readme",
+  "dependencies": {
+    "google-images": "^1.0.0"
+  }
+}
